@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TryParseExact\TryParseExact\bin\Debug\net6.0\TryParseExact.exe
+C:\Users\user\source\repos\TryParseExact\TryParseExact\bin\Debug\net6.0\TryParseExact.deps.json
+C:\Users\user\source\repos\TryParseExact\TryParseExact\bin\Debug\net6.0\TryParseExact.runtimeconfig.json
+C:\Users\user\source\repos\TryParseExact\TryParseExact\bin\Debug\net6.0\TryParseExact.dll
+C:\Users\user\source\repos\TryParseExact\TryParseExact\bin\Debug\net6.0\TryParseExact.pdb
+C:\Users\user\source\repos\TryParseExact\TryParseExact\obj\Debug\net6.0\TryParseExact.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TryParseExact\TryParseExact\obj\Debug\net6.0\TryParseExact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TryParseExact\TryParseExact\obj\Debug\net6.0\TryParseExact.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TryParseExact\TryParseExact\obj\Debug\net6.0\TryParseExact.AssemblyInfo.cs
+C:\Users\user\source\repos\TryParseExact\TryParseExact\obj\Debug\net6.0\TryParseExact.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TryParseExact\TryParseExact\obj\Debug\net6.0\TryParseExact.dll
+C:\Users\user\source\repos\TryParseExact\TryParseExact\obj\Debug\net6.0\refint\TryParseExact.dll
+C:\Users\user\source\repos\TryParseExact\TryParseExact\obj\Debug\net6.0\TryParseExact.pdb
+C:\Users\user\source\repos\TryParseExact\TryParseExact\obj\Debug\net6.0\TryParseExact.genruntimeconfig.cache
+C:\Users\user\source\repos\TryParseExact\TryParseExact\obj\Debug\net6.0\ref\TryParseExact.dll
